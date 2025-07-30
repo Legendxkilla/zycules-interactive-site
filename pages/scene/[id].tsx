@@ -62,4 +62,5 @@ export default function Scene() {
         )}
       </div>
     </div>
+  );
 }
